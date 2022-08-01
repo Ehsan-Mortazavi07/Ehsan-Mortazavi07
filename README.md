@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ehsan-Mortazavi07
+- 👋 Hi, I’m Ehsan Mortazavi
 - 👀 I’m interested in Python-Django
 - 🌱 I’m currently learning Django
 
