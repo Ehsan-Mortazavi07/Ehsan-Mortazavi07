@@ -35,7 +35,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ِehsan-mortazavi-5921942a1"><img src="https://img.shields.io/badge/-Ehsan%20Mortazavi-1769FF?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ehsan-mortazavi"><img src="https://img.shields.io/badge/-Ali%20Mortazavi-1769FF?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/ehsan.mrtzvi"><img src="https://img.shields.io/badge/-@ehsan.mrtzvi-1769FF?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://t.me/EhsanMor_pr"><img src="https://img.shields.io/badge/-EhsanMor_pr-1769FF?style=flat&logo=Telegram&logoColor=white"/></a>
 </p>
